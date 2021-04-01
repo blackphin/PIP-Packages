@@ -3,3 +3,4 @@ tabulate
 tqdm
 playsound
 selenium
+matplotlib
