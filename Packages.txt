@@ -4,3 +4,5 @@ tqdm
 playsound
 selenium
 matplotlib
+pylint
+black
