@@ -1,4 +1,4 @@
-pyautogui
+PyAutoGUI
 tabulate
 tqdm
 playsound
