@@ -6,3 +6,4 @@ selenium
 matplotlib
 pylint
 black
+discord.py
