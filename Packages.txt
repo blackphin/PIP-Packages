@@ -7,3 +7,5 @@ matplotlib
 pylint
 black
 discord.py
+scrapy
+requests
