@@ -7,3 +7,4 @@ matplotlib
 pylint
 black
 requests
+xlrd
